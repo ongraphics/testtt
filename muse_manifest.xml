@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484682018470">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484682621277">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="3769111872" ref="index"/>
@@ -108,15 +108,15 @@
       <file name="master_03-copy.css" crc="3770132754" ref="phone>04"/>
       <file name="master_a-master-copy.css" crc="252329296" ref="phone>02"/>
       <file name="master_03.css" crc="514824193" ref="phone>03"/>
-      <file name="04.css" crc="536688078" ref="phone>04"/>
-      <file name="03.css" crc="54227644" ref="phone>03"/>
+      <file name="04.css" crc="4026687897" ref="phone>04"/>
+      <file name="03.css" crc="70638865" ref="phone>03"/>
       <file name="02.css" crc="3955846633" ref="phone>02"/>
       <file name="index.css" crc="518766999" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="377781397" seo="true" mt="1484681966328" redirect="true"/>
     <file name="02.html" crc="4280350531" seo="true" mt="1484681850871" redirect="true"/>
-    <file name="03.html" crc="168648288" seo="true" mt="1484681905369" redirect="true"/>
-    <file name="04.html" crc="3835502465" seo="true" mt="1484681845629" redirect="true"/>
+    <file name="03.html" crc="3799172745" seo="true" mt="1484682576234" redirect="true"/>
+    <file name="04.html" crc="65858584" seo="true" mt="1484682597131" redirect="true"/>
   </folder>
   <file name="index.html" crc="3850471088" seo="true" mt="1484679183399" redirect="true"/>
 </manifest>
