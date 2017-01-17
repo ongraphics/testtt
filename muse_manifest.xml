@@ -1,0 +1,113 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="onchania.com" resolutions="1x" timestamp="1484679222379">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3769111872" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4148063285" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4179431180" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3986320349" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="phone>index"/>
+    <file name="touchswipe.js" crc="221459597" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="phone>index"/>
+    <file name="require.js" crc="4159430777" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="cover mob.jpg" crc="159127345" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
+    <file name="mob ikona 02.jpg" crc="4189067043" seo="true" ref="phone>index"/>
+    <file name="mob ikona 03.jpg" crc="4284299944" seo="true" ref="phone>index"/>
+    <file name="ikona mob man.jpg" crc="3879462060" seo="true" ref="phone>index"/>
+    <file name="ikona mob koum.jpg" crc="4239313298" seo="true" ref="phone>index"/>
+    <file name="ikonamob wall.jpg" crc="183038667" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index"/>
+    <file name="smokeloop_00000.png" crc="163473597" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00001.png" crc="3966275025" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00002.png" crc="4267891341" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00003.png" crc="398478660" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00004.png" crc="4210457033" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00005.png" crc="310842270" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00006.png" crc="418089745" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00007.png" crc="4049853226" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00008.png" crc="105054924" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00009.png" crc="141863813" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00010.png" crc="87372374" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00011.png" crc="487511221" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00012.png" crc="3872161209" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00013.png" crc="4098362280" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00014.png" crc="435761448" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00015.png" crc="3867603947" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00016.png" crc="392541930" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00017.png" crc="305247644" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00018.png" crc="235673702" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00019.png" crc="315514520" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00020.png" crc="233063917" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00021.png" crc="424653353" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00022.png" crc="4252488822" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00023.png" crc="343367855" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00024.png" crc="290918839" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00025.png" crc="215131698" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00026.png" crc="3822672944" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00027.png" crc="4278151509" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00028.png" crc="4148838743" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00029.png" crc="4129731211" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00030.png" crc="3827486891" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00031.png" crc="193820398" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00032.png" crc="298673179" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00033.png" crc="189039550" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00034.png" crc="518073244" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00035.png" crc="241050327" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00036.png" crc="3891616739" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00037.png" crc="4104272205" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00038.png" crc="217729839" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00039.png" crc="3962755673" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00040.png" crc="4156473787" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00041.png" crc="3871546277" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00042.png" crc="3906119273" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00043.png" crc="341110847" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00044.png" crc="4058240637" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00045.png" crc="202862949" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00046.png" crc="474661204" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00047.png" crc="475694914" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00048.png" crc="164346469" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00049.png" crc="72519608" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00050.png" crc="4078174740" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00051.png" crc="406181852" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00052.png" crc="4074074418" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00053.png" crc="3813325517" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00054.png" crc="3862578863" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00055.png" crc="3976051248" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00056.png" crc="208851887" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00057.png" crc="4196787444" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00058.png" crc="3832621561" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00059.png" crc="184700834" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00060.png" crc="4221071480" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00061.png" crc="4220865614" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00062.png" crc="331541002" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00063.png" crc="3776672961" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00064.png" crc="3905279246" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00065.png" crc="3895800551" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00066.png" crc="3923374736" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00067.png" crc="176502020" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00068.png" crc="329974125" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00069.png" crc="250043664" seo="true" ref="phone>index"/>
+    <file name="smokeloop_00070.png" crc="324069688" seo="true" ref="phone>index"/>
+    <file name="cup mob 00.png" crc="176338566" seo="true" ref="phone>index"/>
+    <file name="cup mob 01.png" crc="23829815" seo="true" ref="phone>index"/>
+    <file name="cup mob 04.png" crc="4211921428" seo="true" ref="phone>index"/>
+    <file name="cup mob office.png" crc="4098006153" seo="true" ref="phone>index"/>
+    <file name="cup mob saloni.png" crc="4249554212" seo="true" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="439446910" ref="phone>index"/>
+      <file name="index.css" crc="4175346086" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="513558884" seo="true" mt="1484677979364" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3850471088" seo="true" mt="1484679183399" redirect="true"/>
+</manifest>
