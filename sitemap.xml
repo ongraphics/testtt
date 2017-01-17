@@ -8,25 +8,25 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://onchania.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://onchania.com/images/mob%20ikona%2002.jpg</loc>
+    <loc>http://onchania.com/phone/04.html</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://onchania.com/phone/03.html</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://onchania.com/phone/02.html</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://onchania.com/images/mob%20ikona%2003.jpg</loc>
-    <lastmod>2017-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://onchania.com/images/ikona%20mob%20man.jpg</loc>
-    <lastmod>2017-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://onchania.com/images/ikona%20mob%20koum.jpg</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -248,19 +248,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://onchania.com/images/cover%20mob.jpg</loc>
+    <loc>http://onchania.com/images/smokeloop_00035.png</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://onchania.com/images/smokeloop_00036.png</loc>
+    <loc>http://onchania.com/images/ikona%20mob%20man.jpg</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://onchania.com/images/smokeloop_00037.png</loc>
+    <loc>http://onchania.com/images/ikona%20mob%20koum.jpg</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -494,7 +494,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://onchania.com/images/smokeloop_00035.png</loc>
+    <loc>http://onchania.com/images/mob%20ikona%2002.jpg</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://onchania.com/images/cover%20mob.jpg</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://onchania.com/images/smokeloop_00036.png</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://onchania.com/images/smokeloop_00037.png</loc>
     <lastmod>2017-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

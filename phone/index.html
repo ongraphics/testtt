@@ -18,13 +18,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=439446910"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4175346086" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4245601333"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=518766999" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pslideshowu909"><!-- group -->
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="clearfix colelem" id="pu5049-3"><!-- group -->
+    <div class="clearfix grpelem" id="u5049-3"><!-- content -->
+     <p>&nbsp;</p>
+    </div>
+    <a class="nonblock nontext grpelem" id="u6213" href="02.html"><!-- simple frame --></a>
+   </div>
+   <div class="clearfix colelem" id="pslideshowu909"><!-- group -->
     <div class="SlideShowWidget clearfix HeroFillFrame grpelem" id="slideshowu909"><!-- none box -->
      &nbsp;
      <div class="popup_anchor" id="u922popup">
@@ -293,7 +299,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
    </div>
-   <div class="grpelem" id="u1221"><!-- simple frame --></div>
+   <div class="clearfix colelem" id="pu6199-4"><!-- group -->
+    <div class="clearfix grpelem" id="u6199-4"><!-- content -->
+     <p>300 /3</p>
+    </div>
+    <div class="grpelem" id="u1221"><!-- simple frame --></div>
+   </div>
    <div class="verticalspacer" data-offset-top="5362" data-content-above-spacer="5362" data-content-below-spacer="0"></div>
   </div>
   <!-- Other scripts -->
@@ -310,8 +321,8 @@ Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('#slideshowu909', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:3000,enableSwipe:true,elastic:'fullScreen',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu909 */
 Muse.Utils.initWidget('#slideshowu1506', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:100,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:0,enableSwipe:false,elastic:'fullScreen',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu1506 */
 Muse.Utils.initWidget('#slideshowu1103', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:3000,enableSwipe:true,elastic:'fullScreen',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu1103 */
-$('#slideshowu909').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,-100]},{"play":100,"in":[-100,Infinity]}]);/* scroll effect */
-$('#slideshowu1103').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,-100]},{"play":100,"in":[-100,Infinity]}]);/* scroll effect */
+$('#slideshowu909').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,0]},{"play":300,"in":[0,Infinity]}]);/* scroll effect */
+$('#slideshowu1103').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,0]},{"play":300,"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
